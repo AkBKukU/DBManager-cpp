@@ -45,6 +45,7 @@ Unique on the database and order numbers
 ### procedures
 
  - patch list(filter by install status)
+ - patch contents
  - add patch
  - set patch installed
 
