@@ -3,7 +3,7 @@
  - [Done] define DBManager requirements
  - [Done] create SQL files to make the DBM tables
  - [Done-ish] create example DB that just holds a varchar and a number
- - load sql files into c++
+ - [Done] load sql files into c++
  - create sql admin user
  - create example mysql interface in c++
  - execute sql files
