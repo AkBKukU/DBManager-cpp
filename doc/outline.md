@@ -4,7 +4,7 @@
  - [Done] create SQL files to make the DBM tables
  - [Done-ish] create example DB that just holds a varchar and a number
  - [Done] load sql files into c++
- - create sql admin user
+ - [Done] create sql admin user
  - create example mysql interface in c++
  - execute sql files
  - create c++ example file to read data from DB
