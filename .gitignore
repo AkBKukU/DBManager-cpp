@@ -35,3 +35,4 @@
 *.swp
 
 exa/build
+*login.h
